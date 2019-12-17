@@ -1,0 +1,11 @@
+C:\Users\bobolek-ltop\source\repos\NBA\NBA\bin\Debug\netcoreapp2.1\NBA.deps.json
+C:\Users\bobolek-ltop\source\repos\NBA\NBA\bin\Debug\netcoreapp2.1\NBA.runtimeconfig.json
+C:\Users\bobolek-ltop\source\repos\NBA\NBA\bin\Debug\netcoreapp2.1\NBA.runtimeconfig.dev.json
+C:\Users\bobolek-ltop\source\repos\NBA\NBA\bin\Debug\netcoreapp2.1\NBA.dll
+C:\Users\bobolek-ltop\source\repos\NBA\NBA\bin\Debug\netcoreapp2.1\NBA.pdb
+C:\Users\bobolek-ltop\source\repos\NBA\NBA\obj\Debug\netcoreapp2.1\NBA.csproj.CoreCompileInputs.cache
+C:\Users\bobolek-ltop\source\repos\NBA\NBA\obj\Debug\netcoreapp2.1\NBA.AssemblyInfoInputs.cache
+C:\Users\bobolek-ltop\source\repos\NBA\NBA\obj\Debug\netcoreapp2.1\NBA.AssemblyInfo.cs
+C:\Users\bobolek-ltop\source\repos\NBA\NBA\obj\Debug\netcoreapp2.1\NBA.dll
+C:\Users\bobolek-ltop\source\repos\NBA\NBA\obj\Debug\netcoreapp2.1\NBA.pdb
+C:\Users\bobolek-ltop\source\repos\NBA\NBA\obj\Debug\netcoreapp2.1\NBA.csprojAssemblyReference.cache
